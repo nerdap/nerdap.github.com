@@ -20,7 +20,7 @@ Assessing the impact of a charity can be so difficult and time-consuming that it
 
 [GiveWell](http://www.givewell.org/) is probably the most well-known charity research non-profit. Looking at criteria like transparency, cost-effectiveness and scalability among others, GiveWell recommends a list of [top charities](http://www.givewell.org/charities/top-charities) that they believe could make the maximum impact with the donations they receive.
 
-They usually recommend no more than three or four charities, and the list if regularly revised based on their criteria.
+They usually recommend no more than three or four charities, and the list is regularly revised based on their criteria.
 
 [The Life You Can Save](http://www.thelifeyoucansave.org/), a non-profit founded by Australian-American professor and philosopher Peter Singer, also does it's own [charity research](http://www.thelifeyoucansave.org/Causes). They also offer an [impact calculator](http://www.thelifeyoucansave.org/Impact-Calculator) that shows how much impact a certain amount of money donated to particular charity can have on the world.
 
