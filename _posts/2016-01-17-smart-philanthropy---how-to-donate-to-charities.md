@@ -12,11 +12,11 @@ With so many charities out there, how do you decide which one to donate your har
 
 The key thing to keep in mind is to donate to those who can create the maximum impact with your donation.
 
-For example, the Make-a-Wish foundation spends approximately $7,500 on each wish they grant to terminally ill children [3]. For that amount of money, the Schistosomiasis Control Initiative (SCI) can treating approximately 15,000 children in Africa for schistosomiasis and soil transmitted helminths, preventing impaired growth and development, anaemia and a variety of other conditions [4].
+For example, the Make-a-Wish foundation spends approximately $7,500 on each wish they grant to terminally ill children [3]. For that amount of money, the Schistosomiasis Control Initiative (SCI) can treat approximately 15,000 children in Africa for schistosomiasis and soil transmitted helminths, preventing impaired growth and development, anaemia and a variety of other conditions [4].
 
 Thus the impact of your money is much higher if you choose to donate to SCI rather than to the Make-a-Wish foundation.
 
-Assessing the impact of a charity can be so difficult and time-consuming that it's impractical for individual donors to do it themselves. There are simply too many variables - Does the charity operate with a high standard of ethics? Is their approach scientifically sound? Are they cost-effective? Thankfully there are charity-research organizations that attempt to answer these questions.
+Assessing the impact of a charity can be so difficult and time-consuming that it's probably impractical for individual donors to do it themselves. There are simply too many variables - Does the charity operate with a high standard of ethics? Is their approach scientifically sound? Are they cost-effective? Thankfully there are charity-research organizations that attempt to answer these questions.
 
 [GiveWell](http://www.givewell.org/) is probably the most well-known charity research non-profit. Looking at criteria like transparency, cost-effectiveness and scalability among others, GiveWell recommends a list of [top charities](http://www.givewell.org/charities/top-charities) that they believe could make the maximum impact with the donations they receive.
 
@@ -32,7 +32,7 @@ Microlending means lending small amounts of money to entrepreneurs, mostly in de
 
 Once the entrepreneurs become profitable enough to pay back your loans they will return your money, usually without interest.
 
-For example, you can lend money to a farmer in India who is unable to afford fertilizer and pesticides for his crops. Once his harvest is successful, he will return your loan using a part of his profits.
+For example, you can lend money to a farmer in India who is unable to afford fertilizer and pesticides for his crops. Once his harvest is successful, he'll return your loan using a part of his profits.
 
 Of course, if their venture fails, you lose your money, but both Zidisha and Kiva invest heavily in keeping repayment rates as high as possible.
 
